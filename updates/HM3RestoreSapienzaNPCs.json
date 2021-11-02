@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "Initial release",
+  "version": "1.0.1",
+  "changelog": "Renames entity.patch file",
   "url": "https://github.com/Notexe/HM3RestoreSapienzaNPCs/releases/latest/download/HM3RestoreSapienzaNPCs.framework.zip",
   "managedFilesAndFolders": ["HM3RestoreSapienzaNPCs"]
 }
