@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "changelog": "Initial release",
+  "version": "0.1.1",
+  "changelog": "Add weapon rack to test map and added custom work in progress Hawke's Bay map set in the daytime",
   "url": "https://github.com/Notexe/HM3CustomMaps/releases/latest/download/HM3CustomMaps.framework.zip",
   "managedFilesAndFolders": ["HM3CustomMaps"]
 }
