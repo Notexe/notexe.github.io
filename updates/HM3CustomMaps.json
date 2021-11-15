@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "changelog": "Add weapon rack to test map and added custom work in progress Hawke's Bay map set in the daytime",
+  "version": "1.0.0",
+  "changelog": "Converted all entity JSONs to QN 2.0, added an outfit showcase map and modified Rocco's route a bit and added some party balloons around the house in the Hawke's Bay map.",
   "url": "https://github.com/Notexe/HM3CustomMaps/releases/latest/download/HM3CustomMaps.framework.zip",
   "managedFilesAndFolders": ["HM3CustomMaps"]
 }
