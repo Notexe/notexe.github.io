@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "Initial release",
+  "version": "1.0.1",
+  "changelog": "Update to new patch JSON format",
   "url": "https://github.com/Notexe/HM3MooseEERestored/releases/latest/download/HM3MooseEERestored.framework.zip",
   "managedFilesAndFolders": ["HM3MooseEERestored"]
 }
