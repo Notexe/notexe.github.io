@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "changelog": "Initial release",
+  "version": "1.0.1",
+  "changelog": "Add dev gecko brick",
   "url": "https://github.com/Notexe/DevBricks/releases/latest/download/DevBricks.framework.zip",
   "managedFilesAndFolders": ["DevBricks"]
 }
