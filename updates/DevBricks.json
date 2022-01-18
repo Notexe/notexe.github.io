@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "changelog": "Add dev gecko brick",
+  "version": "1.0.2",
+  "changelog": "Add dev llama brick",
   "url": "https://github.com/Notexe/DevBricks/releases/latest/download/DevBricks.framework.zip",
   "managedFilesAndFolders": ["DevBricks"]
 }
