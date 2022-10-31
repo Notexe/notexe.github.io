@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "changelog": "Add dev llama brick",
+  "version": "1.0.3",
+  "changelog": "Add dev_flamingo brick and update to QN 3",
   "url": "https://github.com/Notexe/DevBricks/releases/latest/download/DevBricks.framework.zip",
   "managedFilesAndFolders": ["DevBricks"]
 }
